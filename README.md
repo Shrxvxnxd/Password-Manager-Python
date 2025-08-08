@@ -39,8 +39,7 @@ Usage
 Example console output:
 
 ```
-Generated Password: aB3$kP9!
-Password saved successfully in passwords.csv
+{Number of users} passwords saved to 'generated_passwords.csv' successfully!
 ```
 
 Example CSV content:
